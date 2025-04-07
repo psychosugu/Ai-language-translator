@@ -30,7 +30,7 @@ Students and researchers accessing foreign content
 A simple and interactive web-based AI language translator built with HTML, CSS, and JavaScript. It allows users to translate text between various languages with ease using AI-powered translation services.
 
 ## 🚀 Live Demo
-👉 [View on Vercel](https://your-vercel-url.vercel.app/) *(Replace with your actual URL)*
+👉
 
 ## 🧠 Features
 - 🔁 Real-time text translation
